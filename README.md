@@ -1,7 +1,7 @@
 # Hi, I'm Laxmii Khanal 👋
 
 🎓 BSc CSIT (7th Semester) Student  
-🏫 Liumbini City College, Butwal  
+🏫 Lumbini City College, Butwal  
 🧠 Backend-Focused Developer
 
 ---
