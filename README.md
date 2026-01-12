@@ -1,4 +1,4 @@
-# Hi, I'm Laxmi Khanal 👋
+# Hi, I'm Laxmii Khanal 👋
 
 🎓 BSc CSIT (7th Semester) Student  
 🏫 Liumbini City College, Butwal  
