@@ -1,7 +1,4 @@
 # Hi, I'm Laxmii Khanal 👋
-
-🎓 BSc CSIT (7th Semester) Student  
-🏫 Lumbini City College, Butwal  
 🧠 Backend-Focused Developer
 
 ---
@@ -40,6 +37,13 @@ I care more about **performance, structure, and reliability** than UI animations
 ## 📌 Currently Learning
 - Advanced Django concepts  
 - Backend best practices & security  
+
+---
+e
+## 🎓 Education
+
+- Bachelor's of science in Computer Science and Information Technology – Lumbini City College, Tribhuwan University (Expected 2026)
+- High School (+2 Science – Computer Science) – New Horizon College (2022)
 
 ---
 
