@@ -39,7 +39,7 @@ I care more about **performance, structure, and reliability** than UI animations
 - Backend best practices & security  
 
 ---
-e
+
 ## 🎓 Education
 
 - Bachelor's of science in Computer Science and Information Technology – Lumbini City College, Tribhuwan University (Expected 2026)
