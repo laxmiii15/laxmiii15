@@ -36,7 +36,8 @@ I care more about **performance, structure, and reliability** than UI animations
 
 ## 📌 Currently Learning
 - Advanced Django concepts  
-- Backend best practices & security  
+- Backend best practices & security
+- Database partitioning and indexing 
 
 ---
 
