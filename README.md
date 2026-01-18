@@ -1,5 +1,5 @@
 # Hi, I'm Laxmii Khanal 👋
-🧠 Backend-Focused Developer
+Backend-Focused Developer
 
 ---
 
