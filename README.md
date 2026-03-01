@@ -1,7 +1,7 @@
 # Hi, I'm Laxmii Khanal 👋
 Backend-Focused Developer
 
----
+
 
 ## 🧩 Who Am I?
 I’m a backend-oriented programmer who enjoys working behind the scenes —  
