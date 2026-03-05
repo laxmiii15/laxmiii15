@@ -25,21 +25,20 @@ I care more about **performance, structure, and reliability** than UI animations
 
 
 
-## 🧠 Mindset
+🧠 Mindset
 - Think in data flows, not colors  
 - Prefer clean architecture over quick hacks  
 - Believe backend is the backbone of any application  
 
 
-
-## 📌 Currently Learning
+📌 Currently Learning
 - Advanced Django concepts  
 - Backend best practices & security
 - Database partitioning and indexing 
 
 
 
-## 🎓 Education
+🎓 Education
 
 - Bachelor's of science in Computer Science and Information Technology – Lumbini City College, Tribhuwan University (Expected 2026)
 - High School (+2 Science – Computer Science) – New Horizon College (2022)
