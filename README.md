@@ -10,13 +10,13 @@ designing APIs, handling databases, and writing clean, scalable server-side logi
 I care more about **performance, structure, and reliability** than UI animations.
 
 
-## 🔧 Backend Stack
+🔧 Backend Stack
 - **Language:** Python, Javscript, CSS, SQL,   
 - **Framework:** Django, Django REST framework  
 - **Database:** MySQL, PostgreSQL  
 
 
-## ⚙️ What I Like Working On
+⚙️ What I Like Working On
 - RESTful APIs  
 - Authentication & Authorization  
 - Database schema design  
