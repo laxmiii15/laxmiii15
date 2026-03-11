@@ -45,5 +45,5 @@ I care more about **performance, structure, and reliability** than UI animations
 
 
 
-If it runs smoothly, scales well, and doesn’t crash — that’s my kind of work.
+⭐️If it runs smoothly, scales well, and doesn’t crash — that’s my kind of work.
 
