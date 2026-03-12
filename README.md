@@ -1,4 +1,4 @@
-# Hi, I'm Laxmii Khanal 
+# Hi, I'm Laxmii Khanal 👋
 Backend-Focused Developer
 
 
