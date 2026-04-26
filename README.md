@@ -11,7 +11,7 @@ I care more about **performance, structure, and reliability** than UI animations
 
 
 🔧 Backend Stack
-- **Language:** Python, Javscript, SQL,   
+- **Language:** Python, Javscript, CSS, SQL,   
 - **Framework:** Django, Django REST framework  
 - **Database:** MySQL, PostgreSQL  
 
