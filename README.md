@@ -1,7 +1,7 @@
 # Hi, I'm Laxmii Khanal 👋
 Backend and AI Programmer
 
-I'm a backend-oriented programmer who enjoys working behind the scenes —
+I am a backend programmer who enjoys working behind the scenes —
 designing APIs, handling databases, and writing clean, scalable server-side logic.
 I care more about **performance, structure, and reliability** than UI animations.
 
