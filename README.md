@@ -6,7 +6,7 @@ designing APIs, handling databases, and writing clean, scalable server-side logi
 I care more about **performance, structure, and reliability** than UI animations.
 
 ## 🔧 Backend Stack
-- **Languages:** JavaScript, TypeScript, Python, SQL
+- **Languages:JavaScript, TypeScript, Python, SQL
 - **Frameworks:** Node.js, NestJS, Django, Django REST Framework
 - **Databases:** PostgreSQL, MySQL
 
