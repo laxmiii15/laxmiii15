@@ -11,9 +11,9 @@ I care more about **performance, structure, and reliability** than UI animations
 - **Databases:** PostgreSQL, MySQL
 
 ## ⚙️ What I Like Working On
-- RESTful APIs
+- RESTful / Graphql APIs and Scaling them
 - Authentication & Authorization
-- Database schema design
+- Database schema and optimization techniques
 - Server-side logic & optimization
 - Debugging and problem-solving
 - Clean architecture & scalable systems
@@ -31,6 +31,3 @@ I care more about **performance, structure, and reliability** than UI animations
 ## 🎓 Education
 - **BSc Computer Science & IT** — Lumbini City College, Tribhuwan University *(Expected 2026)*
 - **High School (+2 Science – Computer Science)** — New Horizon College *(2022)*
-
----
-⭐️ *If it runs smoothly, scales well, and doesn't crash — that's my kind of work.*
