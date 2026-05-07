@@ -18,7 +18,7 @@ I care more about **performance, structure, and reliability** than UI animations
 - Debugging and problem-solving
 - Clean architecture & scalable systems
 
-## 🧠 Mindset
+### 🧠 Mindset
 - Think in data flows, not colors
 - Prefer clean architecture over quick hacks
 - Believe backend is the backbone of any application
