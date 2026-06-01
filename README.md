@@ -10,7 +10,7 @@ I care more about **performance, structure, and reliability** than UI animations
 - **Frameworks:** Node.js, NestJS, Django, Django REST Framework
 - **Databases:** PostgreSQL,MySQL
 
-### ⚙️ What I Like Working On
+###  What I Like Working On
 - RESTful / Graphql APIs and Scaling them
 - Authentication & Authorization
 - Database schema and optimization techniques
